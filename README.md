@@ -6,7 +6,7 @@ One of those systems is described in the AWS Architecture Blog post I co-authore
 
 What's here is what I study in public:
 
-- [data-engineering-learning](https://github.com/raviteja-gadde/data-engineering-learning) — data engineering by building: warehousing, columnar storage, dbt and Airflow, precomputation, suppression and access control, with runnable labs.
+- [data-engineering-labs](https://github.com/raviteja-gadde/data-engineering-labs) — data engineering by building: warehousing, columnar storage, dbt and Airflow, precomputation, suppression and access control, with runnable labs.
 - Writing: [raviteja-gadde.github.io](https://raviteja-gadde.github.io)
 
 Phoenix, AZ.
