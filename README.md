@@ -1,8 +1,8 @@
 ## Ravi Teja Gadde
 
-Senior Software Engineer on the Gallup AI team. My work there is on the engineering behind a coaching assistant grounded in Gallup's workplace research, built on AWS Bedrock: retrieval pipelines, agent tooling, evaluation, and the production systems around them.
+Senior Software Engineer on the Gallup AI team, working on the AI products that put Gallup's workplace science in front of enterprise customers. My work spans retrieval, agents, evaluation, and the production systems around them on AWS Bedrock, from RFC to running in production.
 
-I co-authored the AWS Architecture Blog post describing the architecture: [Gallup delivers real-time workplace coaching to thousands of leaders with Amazon Bedrock](https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/).
+One of those systems is described in the AWS Architecture Blog post I co-authored: [Gallup delivers real-time workplace coaching to thousands of leaders with Amazon Bedrock](https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/).
 
 What's here is what I study in public:
 
