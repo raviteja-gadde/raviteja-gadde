@@ -9,4 +9,4 @@ Deep dives:
 - [data-engineering-labs](https://github.com/raviteja-gadde/data-engineering-labs) — data engineering by building: warehousing, columnar storage, dbt and Airflow, precomputation, suppression and access control, with runnable labs.
 - [auth0-playbook](https://github.com/raviteja-gadde/auth0-playbook) — production authentication on Auth0: notes and runnable flows for OAuth/OIDC, federation, fine-grained authorization, and MCP server auth.
 
-More at [raviteja-gadde.github.io](https://raviteja-gadde.github.io). Phoenix, AZ.
+More at [raviteja-gadde.github.io](https://raviteja-gadde.github.io). Greater Phoenix Area.
