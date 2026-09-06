@@ -7,7 +7,7 @@ One of those systems is described in the AWS Architecture Blog post I co-authore
 What's here is what I study in public:
 
 - [data-engineering-labs](https://github.com/raviteja-gadde/data-engineering-labs) — data engineering by building: warehousing, columnar storage, dbt and Airflow, precomputation, suppression and access control, with runnable labs.
-- [auth0-deep-dive](https://github.com/raviteja-gadde/auth0-deep-dive) — production authentication on Auth0: notes and runnable flows for OAuth/OIDC, federation, fine-grained authorization, and MCP server auth.
+- [auth0-playbook](https://github.com/raviteja-gadde/auth0-playbook) — production authentication on Auth0: notes and runnable flows for OAuth/OIDC, federation, fine-grained authorization, and MCP server auth.
 - Writing: [raviteja-gadde.github.io](https://raviteja-gadde.github.io)
 
 Phoenix, AZ.
