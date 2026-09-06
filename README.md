@@ -1,11 +1,9 @@
 ## Ravi Teja Gadde
 
-Senior Software Engineer · AI systems and products
+I'm a senior software engineer at Gallup, where I build the AI systems behind its enterprise products. I took Gallup AI from first prototype to production, and co-authored the [AWS Architecture Blog post](https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/) on how it's built.
 
-Ten years building software end to end: the design, the code, the infrastructure it runs on, and what happens after it ships. Most of it where mistakes cost money.
+Ten years in, across analytics platforms, payments, and financial services, I've worked end to end: design, code, the infrastructure it runs on, and what happens after launch.
 
-What I care about most is that things hold up. I'd rather understand a system down to the layer where it can fail than trust an abstraction I can't reason about. In an AI product that means the layers underneath it: the data it stands on, the identity and access around it, the retrieval that feeds it, and the evaluation that says whether it works.
+I'm strongest on the layers an AI product stands on: the data, the identity and access around it, the retrieval that feeds it, and the evaluation that says whether it works. Most of my attention right now is on agent systems, giving models tools, boundaries, and enough evaluation to trust them with real decisions.
 
-The next stretch of my work is agent systems: giving models tools, boundaries, and enough evaluation to trust them with real decisions.
-
-Career on [LinkedIn](https://www.linkedin.com/in/raviteja-gadde/). Site: [raviteja-gadde.github.io](https://raviteja-gadde.github.io). Greater Phoenix Area.
+[raviteja-gadde.github.io](https://raviteja-gadde.github.io) · [LinkedIn](https://www.linkedin.com/in/raviteja-gadde/) · Greater Phoenix Area
