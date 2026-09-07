@@ -1,6 +1,6 @@
 ## Ravi Teja Gadde
 
-Senior software engineer. I build production AI systems. Took Gallup AI from prototype to production. Recently co-authored the [AWS Architecture Blog post](https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/) on how it's built.
+Senior software engineer. I build production AI systems. Took Gallup AI from prototype to production. Recently co-authored the [AWS Architecture Blog post](https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/) on its initial architecture.
 
 Ten years in, I've shipped end to end: design, code, the infrastructure it runs on, and what happens after launch. Analytics platforms, payments, financial services.
 
